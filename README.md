@@ -1,4 +1,5 @@
 bwlimiter
 =========
 
-Script to block network abusers on a daily basis
+Script that puts networks abusers to think about what they have done.
+
